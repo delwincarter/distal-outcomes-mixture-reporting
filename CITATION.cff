@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this workflow, please cite the accompanying article."
+title: "Distal Outcome Reporting in Mixture Models"
+type: software
+authors:
+  - family-names: "Carter"
+    given-names: "Delwin B."
+repository-code: "https://github.com/delwincarter/distal-outcomes-mixture-reporting"
+url: "https://delwincarter.github.io/distal-outcomes-mixture-reporting/"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Carter"
+      given-names: "Delwin B."
+  title: "Distal Outcomes in Mixture Modeling: A Guide for Pairwise Comparisons, Multiplicity Control, and Effect Size Reporting"
+  journal: "Behavior Research Methods"
+  year: 2026
+  doi: "10.3758/s13428-026-03144-4"
