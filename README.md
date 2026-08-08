@@ -1,6 +1,6 @@
 # Distal Outcome Reporting in Mixture Models
 
-Reproducible Quarto/R workflow accompanying:
+Reproducible Quarto/R workflow accompanying the **Behavior Research Methods Tutorial Special Collection** article:
 
 **Carter, D. B. (2026). _Distal Outcomes in Mixture Modeling: A Guide for Pairwise Comparisons, Multiplicity Control, and Effect Size Reporting._ Behavior Research Methods.**
 
