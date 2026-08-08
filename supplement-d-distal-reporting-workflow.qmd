@@ -9,6 +9,7 @@ format:
     number-sections: false
     code-fold: false
     code-tools: false
+    code-overflow: wrap
     embed-resources: true
 execute:
   echo: true
@@ -45,6 +46,14 @@ The workflow is intentionally software-agnostic. Researchers can use values obta
 The workflow is not limited to the four-class example shown below. The pairwise comparison structure is generated from the class labels supplied in the input chunk, so the same code can be applied to solutions with any number of latent classes, profiles, trajectories, or transitions, provided that the input vectors have matching lengths and the number of pairwise *p*-values matches the number of class-to-class comparisons.
 
 The tables in this supplement are designed to make the computational process transparent. They show how values from model output are converted into the quantities recommended in the manuscript. They are not intended to prescribe a single required table format for publication. A publication-style reporting example is provided separately in Supplement C.
+
+### Repository and interactive workflow
+
+**Repository archive.** The complete Quarto/R source for this reproducible post-estimation workflow is publicly available in the [**GitHub repository**](https://github.com/delwincarter/distal-outcomes-mixture-reporting).
+
+**Interactive HTML workflow.** In addition to this journal-formatted PDF supplement, a rendered HTML version of the workflow is available online. The HTML version contains the same post-estimation workflow, example inputs, computations, and outputs, with inline code, tables, and section-level navigation for ease of methodological review and reuse.
+
+[**Access the interactive workflow**](https://delwincarter.github.io/distal-outcomes-mixture-reporting/)**.**
 
 ## Required inputs
 
